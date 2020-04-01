@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Migrating to Jekyll, so nothing here now.
+Simple blog-like interface to chronicle my learnings and musings.
 
 ### More Information
 
-Later.
+Migrating to Jekyll, so nothing much here now.
 
 ### Contact me
 
